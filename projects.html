@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/Profile Picture.jpg" type="image/x-icon">
+</head>
+<body>
+    <div class="header">
+        <h1>Projects and Certification</h1>
+    </div>
+    <div class="project-container">
+        <div class="mini-video" onclick="expandVideo(this)">
+            <video src="videos\Analys_Video.mp4" autoplay="" loop></video>
+            <p>Analys - Earthquake and<br>Fire Data Visualization</p>
+        </div>
+        
+        <div class="mini-video" onclick="expandVideo(this)">
+            <video src="videos\Dormitory_Video.mp4"></video>
+            <p>Automated Dormitory<br>Management System</p>
+        </div>
+
+        <div class="mini-video" onclick="expandVideo(this)">
+            <video src="videos\Margatron_Video.mp4"></video>
+            <p>Margatron - Chatbot for<br>MMCM Admissions</p>
+        </div>
+        <div>
+            <img src="images/Laundry Program Picture.jpg" class="laundry-images" onclick="expandImage(this)">
+            <p class="project-description">Laundry Management<br>Program</p>
+        </div>
+        <div>
+            <img src="images/MS Excel Certification.png" class="certification-images">
+            <p class="project-description">Microsoft Excel<br>Certification</p>
+        </div>
+    </div>
+    <div id="projects-right-part">
+        <div class="projects-icon-container">
+            <a href="./index.html"><img src="images/house-icon.png" class="home-icon" id="projects-home-icon"></a>
+            <a href="./about.html"><img src="images/person-icon.png" class="about-icon"></a>
+            <a href="."><img src="images/project-icon.png" class="projects-icon" id="projects-projects-icon"></a>
+        </div>
+    </div>
+    <div id="bottom-part">
+        <footer></footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
