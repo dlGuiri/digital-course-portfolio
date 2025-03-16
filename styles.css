@@ -370,3 +370,8 @@ body {
 .certification-images:hover{
     box-shadow: 0 0 15px 5px rgba(0, 255, 136, 0.8);
 }
+
+.dorm-address {
+    text-decoration: none;
+    color: white;
+}
