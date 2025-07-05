@@ -5,10 +5,10 @@ Link to Portfolio:
 [Visit my Portfolio](https://sites.google.com/view/dlguirigayportfolio/home?authuser=0)
 
 # 🦷 Latest Project DentalLens
+[Dental Lens](https://github.com/dlGuiri/dlGuiri-Dental_Lens.git)
+
 ## 📗 User Manual 
 [USER MANUAL.md](./UserManual.md)
 
 ---
-Thank you for checking out our repository! Feel free to explore.
-# digital-course-portfolio
-
+Thank you for checking out my repository! Feel free to explore.
