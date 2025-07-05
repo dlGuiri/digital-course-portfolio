@@ -11,7 +11,7 @@ This logo uses the initial letters of our last names to act as the representatio
 Link to Portfolio:  
 [Visit my Portfolio](https://sites.google.com/view/dlguirigayportfolio/home?authuser=0)
 
-# 🦷 Latest Project DentalLens
+# 🦷 Latest Project Dental Lens
 [Dental Lens](https://github.com/dlGuiri/dlGuiri-Dental_Lens.git)
 
 ## 📗 User Manual 
